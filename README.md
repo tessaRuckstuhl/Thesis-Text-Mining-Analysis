@@ -4,6 +4,7 @@ This repository contains all Python Codes I implemented for my Bachelor's thesis
 
 ## Statistics
 
+Some plots and statistics for better understanding of the data set.
 ## Dynamic Topic Model
 
 Lda Sequence model was used for implementation, inspired by David M. Blei, John D. Lafferty: “Dynamic Topic Models”.
