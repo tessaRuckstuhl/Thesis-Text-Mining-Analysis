@@ -1,4 +1,4 @@
-# Thesis-Text-Mining-Analysis
+# Thesis (A Text Mining Analysis)
 
 This repository contains all Python Codes I implemented for my Bachelor's thesis "Examining Third-Party Developer Reactions to Changes to the Salesforce Platform Core: A Text Mining Analysis of the Salesforce Stack Exchange Community".
 
